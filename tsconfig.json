@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "outDir": "dist",
+        "module": "commonjs",
+        "moduleResolution": "node", 
+        "sourceMap": true,
+        "watch": true,
+        "experimentalDecorators": true
+    },
+    "files": [
+        "main.ts"
+    ]
+}
